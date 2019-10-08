@@ -2,7 +2,7 @@
 name: Pending task
 about: Log a task to be completed
 title: ''
-labels: ''
+labels: task
 assignees: ''
 
 ---
